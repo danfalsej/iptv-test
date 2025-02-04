@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/RoyalJayhawk-AI/daddylive-m3u/refs/heads/main/epg.xml"
+#EXTM3U url-tvg="http://m3u4u.com/xml/v158yxw456fkeepmn9mw"
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" tvg-name="A&E",A&E
 https://xyzdddd.mizhls.ru/lb/premium302/index.m3u8
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="ABC.(WFAA).Dallas,.TX.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-8-wfaa-us.png" tvg-name="ABC (WFAA)",ABC (WFAA)
